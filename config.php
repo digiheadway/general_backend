@@ -23,9 +23,9 @@ error_reporting(E_ALL);
 
 // ===== DB =====
 $host = "localhost";
-$user = "240376517_sales_crm_pub";
+$user = "u240376517_sales_crm_pub";
 $pass = "MwvFEI>5";
-$dbname = "240376517_sales_crm_pub";
+$dbname = "u240376517_sales_crm_pub	";
 $charset = "utf8mb4";
 
 $dsn = "mysql:host=$host;dbname=$dbname;charset=$charset";
